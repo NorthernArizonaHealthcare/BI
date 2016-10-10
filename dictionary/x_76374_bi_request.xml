@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_order" label="BI Request" max_length="40" name="x_76374_bi_request" sizeclass="12" type="collection">
+        <element label="Department Director" max_length="32" name="department_director" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Intent" mandatory="true" max_length="4000" name="intent" type="string"/>
+        <element choice="1" label="NAH Pillar Alignment" mandatory="true" max_length="32" name="nah_pillar_alignment" reference="u_nah_pillar_alignment" type="reference">
+            <choice/>
+        </element>
+        <element label="Report Name" mandatory="true" max_length="200" name="report_name" type="string"/>
+        <element choice="1" label="Report Request Type" mandatory="true" max_length="40" name="report_request_type" type="string">
+            <choice>
+                <element label="Create New" sequence="0" value="create_new"/>
+                <element label="Access Existing" sequence="1" value="access_existing"/>
+                <element label="Modify Existing" sequence="2" value="modify_existing"/>
+                <element label="Rerun Recurring" sequence="3" value="rerun_recurring"/>
+                <element label="Data Collection Tool" sequence="4" value="data_collection_tool"/>
+            </choice>
+        </element>
+        <element choice="1" label="Service Line" mandatory="true" max_length="32" name="service_line" reference="u_service_line" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="Vision Alignment" max_length="40" name="vision_alignment" type="string">
+            <choice>
+                <element label="The Choice" sequence="0" value="choice"/>
+                <element label="The Destination" sequence="1" value="destination"/>
+                <element label="The Integrator" sequence="2" value="integrator"/>
+            </choice>
+        </element>
+    </element>
+</database>

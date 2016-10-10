@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request Report">f5b1ddf94f1a2200dd6353418110c708</sc_cat_item>
+        <sc_category display_value="Reports">674545b54f1a2200dd6353418110c765</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-06 22:39:12</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>71b1ddf94f1a2200dd6353418110c70a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Report.Request Report</sys_name>
+        <sys_package display_value="BI" source="x_76374_bi">132541354f1a2200dd6353418110c70b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BI">132541354f1a2200dd6353418110c70b</sys_scope>
+        <sys_update_name>sc_cat_item_category_71b1ddf94f1a2200dd6353418110c70a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-06 22:39:12</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

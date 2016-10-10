@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>BI Agent role can accept or reject a task.  It is the one who performs the work on the site.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_76374_bi.BI Agent</name>
+        <suffix>BI Agent</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-06 21:44:28</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>0c35c1b54f1a2200dd6353418110c7e7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_76374_bi.BI Agent</sys_name>
+        <sys_package display_value="BI" source="x_76374_bi">132541354f1a2200dd6353418110c70b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BI">132541354f1a2200dd6353418110c70b</sys_scope>
+        <sys_update_name>sys_user_role_0c35c1b54f1a2200dd6353418110c7e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-08 17:22:05</sys_updated_on>
+    </sys_user_role>
+</record_update>

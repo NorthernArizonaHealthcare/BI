@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config">
+    <sm_config action="INSERT_OR_UPDATE">
+        <accept_reject>false</accept_reject>
+        <active>true</active>
+        <admin_role display_value="x_76374_bi.BI Admin" name="x_76374_bi.BI Admin">cc35c1b54f1a2200dd6353418110c7e6</admin_role>
+        <agent_role display_value="x_76374_bi.BI Agent" name="x_76374_bi.BI Agent">0c35c1b54f1a2200dd6353418110c7e7</agent_role>
+        <app_name>bi</app_name>
+        <approval>false</approval>
+        <approval_workflow display_value="BI Request Report">554b79794f5a2200dd6353418110c7af</approval_workflow>
+        <approver_role/>
+        <associated_task_tables/>
+        <auto_dispatch>false</auto_dispatch>
+        <basic_role/>
+        <catalog/>
+        <created_with_version>Helsinki: 08-27-2016_1002</created_with_version>
+        <disabled_processes/>
+        <dispatch_group_type/>
+        <dispatch_queue>false</dispatch_queue>
+        <dispatcher_role/>
+        <follow_the_sun_priority>{value:,type:,display:}</follow_the_sun_priority>
+        <geolocation_maps>false</geolocation_maps>
+        <inbound_email>false</inbound_email>
+        <initiator_role/>
+        <kbase display_value="BI Knowledge">e45545b54f1a2200dd6353418110c768</kbase>
+        <knowledge_base>true</knowledge_base>
+        <limit_by_location>false</limit_by_location>
+        <main_model_category display_value="BI Request Template">aa4545b54f1a2200dd6353418110c709</main_model_category>
+        <main_model_table>x_76374_bi_request_template</main_model_table>
+        <main_state_flow_table>x_76374_bi_sf_request</main_state_flow_table>
+        <main_table>x_76374_bi_request</main_table>
+        <managed_docs>false</managed_docs>
+        <mandatory_work_notes>false</mandatory_work_notes>
+        <name>BI</name>
+        <part_requirement>false</part_requirement>
+        <property_prefix>x_76374_bi</property_prefix>
+        <qualification>false</qualification>
+        <qualification_group_type/>
+        <qualifier_role/>
+        <read_role display_value="x_76374_bi.BI Read" name="x_76374_bi.BI Read">4c35c1b54f1a2200dd6353418110c7eb</read_role>
+        <request_dispatch_method>manual</request_dispatch_method>
+        <request_dispatch_workflow display_value="Request Assignment Workflow for SM">879cca02d7100200e5eb83e80e6103fc</request_dispatch_workflow>
+        <request_driven>true</request_driven>
+        <rollup_work_notes>true</rollup_work_notes>
+        <service_catalog>true</service_catalog>
+        <surveys/>
+        <sys_class_name>sm_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-06 21:45:10</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c25545b54f1a2200dd6353418110c7f0</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>BI</sys_name>
+        <sys_package display_value="BI" source="x_76374_bi">132541354f1a2200dd6353418110c70b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BI">132541354f1a2200dd6353418110c70b</sys_scope>
+        <sys_update_name>sm_config_c25545b54f1a2200dd6353418110c7f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-07 06:42:10</sys_updated_on>
+        <task_activities>true</task_activities>
+        <task_dispatch_method>manual</task_dispatch_method>
+        <task_dispatch_workflow display_value="Assignment Workflow for SM">e1865971d7132100bbc783e80e610365</task_dispatch_workflow>
+        <task_model_category display_value="BI Task Template">2e4545b54f1a2200dd6353418110c709</task_model_category>
+        <task_model_table>x_76374_bi_task_template</task_model_table>
+        <task_state_flow_table>x_76374_bi_sf_task</task_state_flow_table>
+        <task_table>x_76374_bi_task</task_table>
+        <task_work_group_type/>
+        <templates_to_catalog>true</templates_to_catalog>
+        <track_travel>false</track_travel>
+        <use_consistent_assignment>false</use_consistent_assignment>
+        <use_follow_the_sun>false</use_follow_the_sun>
+        <use_location>false</use_location>
+        <use_schedule>false</use_schedule>
+        <use_sf>false</use_sf>
+        <use_skill>none</use_skill>
+        <use_timezone>false</use_timezone>
+        <user_created>true</user_created>
+        <vendor_group_type/>
+        <work_group_type display_value="bi">b13505b54f1a2200dd6353418110c75b</work_group_type>
+    </sm_config>
+</record_update>

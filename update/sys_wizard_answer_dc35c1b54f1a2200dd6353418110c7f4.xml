@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>BI Request Flow</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>BI Request Flow</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">6e39d3e94f922200dd6353418110c734</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-06 21:44:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>dc35c1b54f1a2200dd6353418110c7f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BI Request Flow</sys_name>
+        <sys_package display_value="BI" source="x_76374_bi">132541354f1a2200dd6353418110c70b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BI">132541354f1a2200dd6353418110c70b</sys_scope>
+        <sys_update_name>sys_wizard_answer_dc35c1b54f1a2200dd6353418110c7f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-06 21:44:29</sys_updated_on>
+        <table/>
+        <target_url>x_76374_bi_sf_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

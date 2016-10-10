@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_task" label="BI Task" max_length="40" name="x_76374_bi_task" sizeclass="29" type="collection"/>
+</database>

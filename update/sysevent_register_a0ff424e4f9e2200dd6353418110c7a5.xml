@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>x_76374_bi.Approval Requested</event_name>
+        <fired_by>Workflow</fired_by>
+        <queue/>
+        <suffix>Approval Requested</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-07 21:50:00</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a0ff424e4f9e2200dd6353418110c7a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_76374_bi.Approval Requested</sys_name>
+        <sys_package display_value="BI" source="x_76374_bi">132541354f1a2200dd6353418110c70b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BI">132541354f1a2200dd6353418110c70b</sys_scope>
+        <sys_update_name>sysevent_register_a0ff424e4f9e2200dd6353418110c7a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-07 21:50:00</sys_updated_on>
+        <table>x_76374_bi_request</table>
+    </sysevent_register>
+</record_update>

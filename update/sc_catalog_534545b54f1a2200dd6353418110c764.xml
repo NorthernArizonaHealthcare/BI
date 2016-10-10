@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description/>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-06 21:44:58</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>534545b54f1a2200dd6353418110c764</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Business Intelligence Catalog</sys_name>
+        <sys_package display_value="BI" source="x_76374_bi">132541354f1a2200dd6353418110c70b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BI">132541354f1a2200dd6353418110c70b</sys_scope>
+        <sys_update_name>sc_catalog_534545b54f1a2200dd6353418110c764</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-06 22:34:09</sys_updated_on>
+        <title>Business Intelligence Catalog</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=534545b54f1a2200dd6353418110c764"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>desktop_image</file_name>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1575</size_bytes>
+        <size_compressed>1598</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-06 22:34:47</sys_created_on>
+        <sys_id>c5b0d9f94f1a2200dd6353418110c7b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-06 22:34:47</sys_updated_on>
+        <table_name>ZZ_YYsc_catalog</table_name>
+        <table_sys_id>534545b54f1a2200dd6353418110c764</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="desktop_image" sys_id="c5b0d9f94f1a2200dd6353418110c7b2">c5b0d9f94f1a2200dd6353418110c7b2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-06 22:34:47</sys_created_on>
+        <sys_id>09b0d9f94f1a2200dd6353418110c7b2</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2120</length>
+        <position>1</position>
+        <sys_attachment display_value="desktop_image" sys_id="c5b0d9f94f1a2200dd6353418110c7b2">c5b0d9f94f1a2200dd6353418110c7b2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-06 22:34:47</sys_created_on>
+        <sys_id>89b0d9f94f1a2200dd6353418110c7b2</sys_id>
+    </sys_attachment_doc>
+</record_update>
